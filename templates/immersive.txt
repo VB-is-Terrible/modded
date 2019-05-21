@@ -1,0 +1,221 @@
+#Distiller
+
+7   Steel Scaffolding
+3   Fluid Pipe
+1   Redstone Engineering Block
+2   Light Engineering Block
+10  Iron Sheetmetal
+
+#Solar Tower
+
+14  Steel Scaffolding
+4   Fluid Pipe
+1   Redstone Engineering Block
+5   Heavy Engineering Block
+20  Steel Fence
+16  Steel Sheetmetal
+
+#Solar Reflector
+
+2   Light Engineering Block
+4   Steel Scaffolding
+1   Block of Silver
+6   Treated Wood Fence
+
+#Boiler
+
+10  Steel Scaffolding
+9   Fluid Pipe
+1   Redstone Engineering Block
+4   Heavy Engineering Block
+20  Iron Sheetmetal
+
+#Steam Turbine
+
+3   Steel Scaffolding
+6   Fluid Pipe
+1   Redstone Engineering Block
+24  Heavy Engineering Block
+4   Radiator Block
+27  Steel Sheetmetal
+10  Block of Steel
+
+#Alternator
+
+4   Heavy Engineering Block
+8   Generator Block
+6   High-Voltage Coil Block
+5   HV Capacitor
+8   Steel Sheetmetal
+2   Block of Steel
+
+#Excavator
+
+6   Steel Scaffolding
+15  Steel Sheetmetal
+1   Redstone Engineering Block 
+9   Light Engineering Block
+5   Heavy Engineering Block
+3   Radiator Block
+
+#Bagger
+
+9   Block of Steel
+20  Steel Scaffolding
+
+#Steel Scaffolding (/6)
+
+3   Steel Ingot
+3   Steel Rod
+
+#Fluid Pipe (/8)
+6   Iron Plate
+
+#Redstone Engineering Block (/2)
+
+4   Iron Ingot
+4   Redstone
+1   Copper Ingot
+
+#Light Engineering Block (/2)
+
+4   Iron Ingot
+3   Copper Ingot
+2   Iron Mechanical Component
+
+#Iron Sheetmetal (/4)
+
+4   Iron Plate
+
+#Heavy Engineering Block (/2)
+
+4   Steel Ingot
+2   Piston 
+1   Electrum Ingot
+2   Steel Mechanical Component
+
+#Steel Fence (/3)
+
+4   Steel Ingot
+2   Steel Rod
+
+#Steel Sheetmetal (/4)
+
+4   Steel Plate
+
+#Radiator Block (/2)
+
+4   Steel Ingot
+4   Copper Ingot
+
+#Generator Block (/2)
+
+6   Steel Ingot
+2   Electrum Ingot
+1   Kinetic Dynamo
+
+#High-Voltage Coil Block
+
+8   HV Wire Coil
+1   Iron Ingot
+
+#HV Capacitor
+
+3   Steel Ingot
+2   Treated Wood Planks
+1   Block of Redstone
+2   Aluminum Ingot
+1   Block of Lead
+
+
+#Iron Mechanical Component
+
+2   Iron Plate
+1   Copper Ingot
+
+#Steel Mechanical Component
+
+2   Steel Plate
+1   Copper Ingot
+
+#Kinetic Dynamo
+
+2   Redstone
+3   Iron Ingot
+1   Copper Coil Block
+
+#Copper Coil Block
+
+8   LV Wire Coil
+1   Iron Ingot
+
+#LV Wire Coil (/4)
+
+4   Copper Wire
+1   Stick
+
+#HV Wire Coil (/4)
+
+2   Steel Wire
+2   Aluminum Wire
+1   Stick
+
+#Treated Wood Fence (/3)
+4   Treated Wood Planks
+2   Treated Stick
+
+#Steel Scaffolding Slab (/6)
+3   Steel Scaffolding
+
+#Iron Plate
+
+1   Iron Ingot
+
+#Steel Plate
+
+1   Steel Ingot
+
+#Steel Rod (/4)
+
+2   Steel Ingot
+
+#Core Sample Drill
+
+4   Steel Scaffolding
+3   Steel Fence
+2   Light Engineering Block
+
+#Pumpjack
+11  Steel Scaffolding
+6   Treated Wood Fence
+4   Fluid Pipe
+1   Redstone Engineering Block
+2   Light Engineering Block
+2   Heavy Engineering Block
+2   Block of Steel
+4   Steel Sheetmetal
+
+#Distillation Tower
+25  Steel Scaffolding
+33  Steel Scaffolding Slab
+17  Fluid Pipe
+1   Redstone Engineering Block
+4   Heavy Engineering Block
+60  Iron Sheetmetal
+
+#Industrial Squeezer
+
+6   Steel Scaffolding
+2   Fluid Pipe
+1   Redstone Engineering Block
+2   Light Engineering Block
+4   Wooden Barrel
+1   Piston
+3   Steel Fence
+
+#Wooden Barrel
+5   Treated Wood Planks
+3   Treated Wood Slab
+
+#Treated Wood Slab (/6)
+3   Treated Wood Planks

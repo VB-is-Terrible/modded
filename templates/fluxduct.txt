@@ -1,0 +1,75 @@
+#Cryo-Stabilized Fluxduct
+
+1   Cryo-Stabilized Fluxduct _Empty_
+500 Gelid Cryotheum
+
+#Cryo-Stabilized Fluxduct _Empty_
+
+1   Resonant Fluxduct
+4   Electrum Ingot
+4   Fused Quartz
+
+#Hardened Glass (/2)
+
+1   Pulverized Aluminum
+2   Fused Quartz
+
+#Pulverized Aluminum
+
+1   Aluminum Ingot
+
+#Fused Quartz
+
+1   Block of Quartz
+
+#Electrum Ingot (/2)
+
+1   Gold Ingot
+1   Silver Ingot
+
+#Resonant Fluxduct
+
+1   Resonant Fluxduct _Empty_
+200 Destabilized Redstone
+
+#Destabilized Redstone (/100)
+
+1   Redstone
+
+#Resonant Fluxduct _Empty_ (/3)
+
+3   Signalum Fluxduct _Empty_
+3   Redstone
+1   Enderium Ingot
+
+#Signalum Fluxduct _Empty_ (/3)
+
+3   Redstone Energy Fluxduct _Empty_
+3   Redstone
+1   Signalum Ingot
+
+#Signalum Ingot (/4)
+
+3   Copper Ingot
+1   Silver Ingot
+10  Redstone
+
+#Redstone Energy Fluxduct _Empty_ (/6)
+
+2 Electrum Ingot
+1 Fused Quartz
+
+#Gelid Cryotheum (/250)
+
+1   Cryotheum Dust
+
+#Cryotheum Dust (/2)
+
+1   Redstone
+1   Snowball
+2   Blizz Powder
+
+#Blizz Powder
+
+2   Snowball
+200 Liquid XP

@@ -1,0 +1,8 @@
+#Osmium Dust
+1   Osmium Ingot
+
+#Pulverized Iron
+1   Iron Ingot
+
+#Pulverized Gold
+1   Gold Ingot

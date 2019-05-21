@@ -1,0 +1,121 @@
+
+#Vibrant Capacitor Bank
+
+1   Vibrant Crystal
+2   Octadic Capacitor
+4   Vibrant Alloy Ingot
+2   Capacitor Bank
+
+
+/*
+#Vibrant Capacitor Bank
+
+1   Vibrant Crystal
+4   Octadic Capacitor
+4   Electrical Steel Ingot
+*/
+
+#Electrical Steel Ingot
+
+1   Steel Ingot
+1   Silicon
+
+#Octadic Capacitor
+
+2   Double-Layer Capacitor
+1   Glowstone
+2   Vibrant Alloy Ingot
+
+#Capacitor Bank
+
+6   Energetic Alloy Ingot
+2   Basic Capacitor Bank
+1   Double-Layer Capacitor
+
+#Basic Capacitor Bank
+
+4   Iron Ingot
+4   Basic Capacitor
+1   Block of Redstone
+
+#Double-Layer Capacitor
+
+2   Basic Capacitor
+1   Pulverized Coal
+2   Energetic Alloy Ingot
+
+#Basic Capacitor
+4   Gold Nugget
+1   Copper Ingot
+2   Grains of Infinity
+
+#Vibrant Crystal
+8   Vibrant Alloy Nugget
+1   Emerald
+
+#Vibrant Alloy Nugget (/9)
+1   Vibrant Alloy Ingot
+
+#Vibrant Alloy Ingot
+1   Energetic Alloy Ingot
+1   Ender Pearl
+
+#Energetic Alloy Ingot
+1   Gold Ingot
+1   Redstone
+1   Glowstone Dust
+
+#Vibrant Bimetal Gear
+8   Vibrant Alloy Nugget
+1   Infinity Bimetal Gear
+
+#Infinity Bimetal Gear
+4   Iron Ingot
+4   Iron Nugget
+1   Grains of Infinity
+
+#Enhanced Alloy Smelter
+2   End Steel Ingot
+1   Alloy Smelter
+2   Vibrant Bimetal Gear
+1   Enhanced Machine Chassis
+
+#Enhanced Machine Chassis
+1   Enhanced Dye Blend
+1   End Steel Chassis
+
+#End Steel Chassis
+4   End Steel Ingot
+4   End Steel Bars
+1   Grains of Infinity
+
+#Enhanced Dye Blend
+4   Nether Quartz Dust
+1   Organic Black Dye
+4   Grains of Piezallity
+
+#Nether Quartz Dust
+1   Nether Quartz
+
+#Organic Black Dye (/2)
+6   Pulverized Charcoal
+1   Slimeball
+
+#Pulverized Charcoal
+1   Charcoal
+
+#Grains of Piezallity
+1   Pulsating Crystal
+
+#Pulsating Crystal
+1   Diamond
+8   Pulsating Iron Nugget
+
+#Pulsating Iron Nugget (/9)
+
+1   Pulsating Iron Ingot
+
+#Pulsating Iron Ingot
+
+1   Iron Ingot
+1   Ender Pearl

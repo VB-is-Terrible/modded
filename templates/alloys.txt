@@ -1,0 +1,20 @@
+#Enderium Base (/4)
+3   Lead Ingot
+1   Platinum Ingot
+4   Ender Pearl
+
+#Enderium Ingot (/2)
+2   Enderium Base
+1   Sand
+
+#End Steel Bars (/16)
+6   End Steel Ingot
+
+#End Steel Ingot
+1   Endstone
+1   Obsidian
+1   Dark Steel Ingot
+
+#Dark Steel Ingot
+1   Steel Ingot
+4   Pulverized Obsidian

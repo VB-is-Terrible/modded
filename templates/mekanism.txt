@@ -1,0 +1,118 @@
+#Chemical Oxidizer
+4   Enriched Alloy
+2   Basic Control Circuit
+1   Basic Gas Tank
+1   Personal Chest
+1   Dynamic Tank
+
+#Enriched Alloy
+1   Redstone
+1   Iron Ingot
+
+#Basic Gas Tank
+4   Redstone
+4   Osmium Ingot
+
+#Personal Chest
+5   Steel Ingot
+2   Chest
+1   Basic Control Circuit
+1   Glass
+
+#Dynamic Tank (/4)
+4   Steel Ingot
+1   Bucket
+
+#Basic Control Circuit
+1   Redstone
+1   Osmium Ingot
+
+#Chemical Dissolution Chamber
+4   Basic Control Circuit
+2   Enriched Alloy
+2   Basic Gas Tank
+1   Atomic Alloy
+
+#Chemical Washer
+4   Basic Control Circuit
+2   Enriched Alloy
+1   Steel Casing
+1   Bucket
+1   Basic Gas Tank
+
+#Chemical Crystallizer
+4   Basic Control Circuit
+2   Atomic Alloy
+2   Basic Gas Tank
+1   Steel Casin
+
+#Chemical Infuser
+4   Enriched Alloy
+2   Basic Gas Tank
+2   Basic Control Circuit
+1   Dynamic Tank
+
+#Rotary Condensator
+4   Glass
+1   Basic Gas Tank
+2   Basic Control Circuit
+1   Basic Fluid Tank
+
+#Chemical Injection Chamber
+2   Gold Ingot
+2   Elite Control Circuit
+4   Reinforced Alloy
+1   Purification Chamber
+
+#Electrolytic Separator
+4   Iron Ingot
+2   Enriched Alloy
+2   Redstone
+1   Electrolytic Core
+
+#Electrolytic Core
+5   Enriched Alloy
+1   Pulverized Iron
+1   Pulverized Gold
+2   Osmium Dust
+
+#Purification Chamber
+4   Enriched Alloy
+2   Advanced Control Circuit
+2   Osmium Ingot
+1   Enrichment Chamber
+
+#Enrichment Chamber
+4   Redstone
+2   Iron Ingot
+2   Basic Control Circuit
+1   Steel Casing
+
+#Elite Control Circuit
+1   Advanced Control Circuit
+2   Reinforced Alloy
+
+#Advanced Control Circuit
+2   Enriched Alloy
+1   Basic Control Circuit
+
+#Atomic Alloy
+1   Refined Obsidian
+1   Reinforced Alloy
+
+#Reinforced Alloy
+1   Diamond Dust
+1   Enriched Alloy
+
+#Refined Obsidian
+1   Pulverized Obsidian
+1   Diamond Dust
+
+#Diamond Dust
+1   Diamond
+
+#Energy Tablet
+4   Redstone
+3   Gold Ingot
+2   Enriched Alloy
+
